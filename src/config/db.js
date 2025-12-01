@@ -1,3 +1,4 @@
+// Configuración de la base de datos
 const mysql = require('mysql');
 
 // Configuración de conexión a la BD
